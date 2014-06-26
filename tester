@@ -1,0 +1,7 @@
+name = 'tester'
+version = '1.0.0'
+type = 'Lib'
+
+function test()
+  print('i love functions')
+end
