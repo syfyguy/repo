@@ -1,1 +1,4 @@
+name = 'release'
+version = '1.0'
+type = 'App'
 print('you are running Unix For Minecraft 1.0.0')
